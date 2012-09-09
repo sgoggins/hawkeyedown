@@ -1,0 +1,10 @@
+<?php
+
+// Data connection information include file
+
+$server   = "127.0.0.1";
+$username = "root";
+$password = "pickleheadfour";
+$database = "twitterinblack46";
+
+?>

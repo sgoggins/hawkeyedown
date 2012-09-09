@@ -1,0 +1,46 @@
+{
+ "name": "flare",
+ "children": [
+
+  {
+   "name": "util",
+   "children": [
+    {"name": "Arrays", "size": 8258},
+    {"name": "Colors", "size": 10001},
+    {"name": "Dates", "size": 8217},
+    {"name": "Displays", "size": 12555},
+    {"name": "Filter", "size": 2324},
+    {"name": "Geometry", "size": 10993},
+    {"name": "IEvaluable", "size": 335},
+    {"name": "Maths", "size": 17705},
+    {"name": "Orientation", "size": 1486},
+	{"name": "ColorPalette", "size": 6367},
+	{"name": "Palette", "size": 1229},
+	{"name": "ShapePalette", "size": 2059},
+	{"name": "SizePalette", "size": 2291},
+    {"name": "Property", "size": 5559},
+    {"name": "Shapes", "size": 19118},
+    {"name": "Sort", "size": 6887},
+    {"name": "Stats", "size": 6557},
+    {"name": "Strings", "size": 22026},
+	{"name": "Axes", "size": 1302},
+	{"name": "Axis", "size": 24593},
+	{"name": "AxisGridLine", "size": 652},
+	{"name": "AxisLabel", "size": 636},
+	{"name": "CartesianAxes", "size": 6703},
+    {
+     "name": "operator",
+     "children": [
+      {"name": "IOperator", "size": 1286},
+      {"name": "Operator", "size": 2490},
+      {"name": "OperatorList", "size": 5248},
+      {"name": "OperatorSequence", "size": 4190},
+      {"name": "OperatorSwitch", "size": 2581},
+      {"name": "SortOperator", "size": 2023}
+     ]
+    },
+    {"name": "Visualization", "size": 16540}
+   ]
+  }
+ ]
+}
